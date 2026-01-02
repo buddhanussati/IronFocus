@@ -5,7 +5,8 @@
 ## 🚀 Key Features
 
 * **Browser Guard:** Automatically closes tabs in Chrome, Edge, Firefox, and Brave that don't match your "Allowed Keywords."
-* **Anti-Cheat Protection:** * Automatically closes Task Manager and Resource Monitor to prevent the script from being killed.
+* **Anti-Cheat Protection:**
+    * Automatically closes Task Manager and Resource Monitor to prevent the script from being killed.
     * Prevents multiple instances (you cannot "reset" the timer by launching the app again).
 * **Draggable Overlay:** A sleek, "Always on Top" countdown timer that stays in view without stealing keyboard focus.
 * **The "Final Lockdown":** When the timer hits zero, the app enforces a 3-minute cooldown period where inputs are blocked before putting the PC to sleep—ensuring you actually take a break.
